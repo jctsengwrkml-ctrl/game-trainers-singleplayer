@@ -14,7 +14,7 @@ Cheat Engine · Python · C#
 ## Write-ups
 | Game | What I found | Write-up |
 |---|---|---|
-| _coming soon_ | | |
+| BioShock 2 | AOB-injected unlimited mana and ammo (clip and reserve) | [bioshock2/](bioshock2/README.md) |
 
 ## Write-up template
 Each write-up covers: target and version, how I found the value (scans, narrowing), how I found a stable pointer or AOB pattern, and what I learned.
